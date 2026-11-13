@@ -30,7 +30,5 @@ public void keyPressed()
   if(key == 'd'){
     ship.turn(30);}
   if(key == 's'){
-    ship.myXspeed /= 2;
-    ship.myYspeed /= 2;
-  }
+    ship.slowSpeed(2);}
 }
