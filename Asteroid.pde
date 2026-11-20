@@ -21,5 +21,5 @@ class Asteroid extends Floater
   public float getMyCenterY(){return (float)myCenterY;}
   public void setMyCenterX(double n){myCenterX = n;}
   public void setMyCenterY(double n){myCenterY = n;}
-
+//
 }
