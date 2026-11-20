@@ -11,7 +11,7 @@ public void setup()
   for(int i = 0; i< 20; i++){
   rock.add(new Asteroid());
   }
-
+//
 }
 public void draw() 
 {
